@@ -57,7 +57,9 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shaizCodes&show_icons=true&theme=transparent)
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shaizCodes&theme=transparent)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaizCodes&layout=pie&theme=transparent)
 
 ---
