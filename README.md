@@ -14,13 +14,15 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 | Platform         | Link                                                                                 |
 |------------------|--------------------------------------------------------------------------------------|
 | ![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)| [shaizcodes@gmail.com](mailto:shaizcodes@gmail.com)                                  |
-| ![LinkedIn](https://skillicons.dev/icons?i=linkedin)      | [linkedin.com/in/shahzad-baloch](https://linkedin.com/in/shahzad-baloch)             |
-| 💡 Coursera      | [https://www.coursera.org/learner/shahzad](https://www.coursera.org/learner/shahzad) |
-| 💡 Google Dev     | [g.dev/shahzad-baloch](https://g.dev/shahzad-baloch)                                |
-| 💬 WhatsApp      | [+923013876845](https://wa.me/923013876845?text=Hi%20from%20a%20GitHub%20user!)      |
-| 💼 Fiverr        | [fiverr.com/shaiznoor](https://www.fiverr.com/shaiznoor)                             |
-| ✍️ Medium        | [medium.com/@shaizcodes](https://medium.com/@shaizcodes)                             |
-| 👨‍💻 LeetCode      | [leetcode.com/shahzad-baloch](https://leetcode.com/shahzad-baloch/)                  |
+| ![LinkedIn](https://skillicons.dev/icons?i=linkedin)      | [in/shahzad-baloch](https://linkedin.com/in/shahzad-baloch)             |
+| ![GitHub](https://skillicons.dev/icons?i=github&theme=light)      | [shaizCodes](https://github.com/shaizCodes)             |
+| ![Coursera](https://skillicons.dev/icons?i=c&theme=light) Coursera     | [learner/shahzad](https://www.coursera.org/learner/shahzad) |
+| ![Google Developers](./logos/google-developers.png) Google Developers     | [g.dev/shahzad-baloch](https://g.dev/shahzad-baloch)                                |
+| 💡 Roadmap.sh     | [u/shahzad](https://roadmap.sh/u/shahzad)                                |
+| ![WhatsApp](./logos/whatsapp.png) WhatsApp      | [+923013876845](https://wa.me/923013876845?text=Hi%20from%20a%20GitHub%20user!)      |
+| ![Fiverr](./logos/fiverr.png) Fiverr        | [shaiznoor](https://www.fiverr.com/shaiznoor)                             |
+| ![Medium](./logos/medium.png) Medium        | [@shaizcodes](https://medium.com/@shaizcodes)                             |
+| ![LeetCode](./logos/leetcode.png) LeetCode      | [shahzad-baloch](https://leetcode.com/shahzad-baloch/)                  |
 
 ---
 
@@ -54,8 +56,9 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shaizCodes&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaizCodes&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shaizCodes&show_icons=true&theme=transparent)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shaizCodes&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaizCodes&layout=pie&theme=transparent)
 
 ---
 
