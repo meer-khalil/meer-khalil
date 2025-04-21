@@ -13,9 +13,9 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 
 | Platform         | Link                                                                                 |
 |------------------|--------------------------------------------------------------------------------------|
-| ![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)| [shaizcodes@gmail.com](mailto:shaizcodes@gmail.com)                                  |
-| ![LinkedIn](https://skillicons.dev/icons?i=linkedin)      | [in/shahzad-baloch](https://linkedin.com/in/shahzad-baloch)             |
-| ![GitHub](https://skillicons.dev/icons?i=github&theme=light)      | [shaizCodes](https://github.com/shaizCodes)             |
+| ![Gmail](https://skillicons.dev/icons?i=gmail&theme=light) Gmail | [shaizcodes@gmail.com](mailto:shaizcodes@gmail.com)                                  |
+| ![LinkedIn](https://skillicons.dev/icons?i=linkedin) LinkedIn    | [in/shahzad-baloch](https://linkedin.com/in/shahzad-baloch)             |
+| ![GitHub](https://skillicons.dev/icons?i=github&theme=light) GitHub | [shaizCodes](https://github.com/shaizCodes)             |
 | ![Coursera](https://skillicons.dev/icons?i=c&theme=light) Coursera     | [learner/shahzad](https://www.coursera.org/learner/shahzad) |
 | ![Google Developers](./logos/google-developers.png) Google Developers     | [g.dev/shahzad-baloch](https://g.dev/shahzad-baloch)                                |
 | 💡 Roadmap.sh     | [u/shahzad](https://roadmap.sh/u/shahzad)                                |
