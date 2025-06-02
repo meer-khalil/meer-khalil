@@ -62,6 +62,16 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaizCodes&layout=pie&theme=transparent)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shaizCodes&theme=transparent&margin-w=15&margin-h=15)
+
+---
+
+## 📈 Roadmap Stats
+
+![Shahzad - roadmap.sh](https://roadmap.sh/card/tall/66cc88cd0d264bdbf81f35fe?variant=dark&roadmaps=java%2Cgit-github%2Cdatastructures-and-algorithms)
+
+[Try out roadmap.sh!](https://roadmap.sh/befriend?u=66cc88cd0d264bdbf81f35fe)
+
 ---
 
 ## ✨ Fun Facts
