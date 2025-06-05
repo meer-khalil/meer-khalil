@@ -9,22 +9,18 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 - 🛠️ Tools of choice: `Java`, `Spring Boot`, `Angular`, `TypeScript`, `Python`
 - 🤝 I value teamwork, clear communication, and craftsmanship in code
 
-## 📫 Connect With Me
+## Profiles
 
-| Platform         | Link                                                                                 |
-|------------------|--------------------------------------------------------------------------------------|
-| ![Gmail](https://skillicons.dev/icons?i=gmail&theme=light) Gmail | [shaizcodes@gmail.com](mailto:shaizcodes@gmail.com)                                  |
-| ![LinkedIn](https://skillicons.dev/icons?i=linkedin) LinkedIn    | [in/shahzad-baloch](https://linkedin.com/in/shahzad-baloch)             |
-| ![GitHub](https://skillicons.dev/icons?i=github&theme=light) GitHub | [shaizCodes](https://github.com/shaizCodes)             |
-| ![Coursera](https://skillicons.dev/icons?i=c&theme=light) Coursera     | [learner/shahzad](https://www.coursera.org/learner/shahzad) |
-| ![Google Developers](./logos/google-developers.png) Google Developers     | [g.dev/shahzad-baloch](https://g.dev/shahzad-baloch)                                |
-| 💡 Roadmap.sh     | [u/shahzad](https://roadmap.sh/u/shahzad)                                |
-| ![WhatsApp](./logos/whatsapp.png) WhatsApp      | [+923013876845](https://wa.me/923013876845?text=Hi%20from%20a%20GitHub%20user!)      |
-| ![Fiverr](./logos/fiverr.png) Fiverr        | [shaiznoor](https://www.fiverr.com/shaiznoor)                             |
-| ![Medium](./logos/medium.png) Medium        | [@shaizcodes](https://medium.com/@shaizcodes)                             |
-| ![LeetCode](./logos/leetcode.png) LeetCode      | [shahzad-baloch](https://leetcode.com/shahzad-baloch/)                  |
-
----
+![Gmail](https://img.shields.io/badge/gmail-shaizcodes-EA4335?logo=gmail)
+![LinkedIn](https://img.shields.io/badge/linkedin-in/shahzad--baloch-0077B5)
+![WhatsApp](https://img.shields.io/badge/whatsapp-+923013876845-25D366?logo=whatsapp)
+![Fiverr](https://img.shields.io/badge/fiverr-shaiznoor-1DBF73?logo=fiverr)
+![GitHub](https://img.shields.io/badge/github-shaizCodes-181717?logo=github)
+![Roadmap](https://img.shields.io/badge/roadmap-u/shahzad-000000?logo=roadmapdotsh)
+![Coursera](https://img.shields.io/badge/coursera-learner/shahzad-0056D2?logo=coursera)
+![Google Developers](https://img.shields.io/badge/google%20developers-g.dev/shahzad--baloch-4285F4)
+![LeetCode](https://img.shields.io/badge/leetcode-shahzad--baloch-FFA116?logo=leetcode)
+![Medium](https://img.shields.io/badge/medium-@shaizcodes-000000?logo=medium)
 
 ## 🔧 Technologies & Tools
 
@@ -72,11 +68,7 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 
 [Try out roadmap.sh!](https://roadmap.sh/befriend?u=66cc88cd0d264bdbf81f35fe)
 
----
-
 ## ✨ Fun Facts
 
 - 🧩 I enjoy solving challenges and learning new things.
 - 📚 I am always learning — from tech deep dives to productivity hacks.
-
----
