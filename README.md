@@ -11,16 +11,16 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 
 ## Profiles
 
-![Gmail](https://img.shields.io/badge/gmail-shaizcodes-EA4335?logo=gmail)
-![LinkedIn](https://img.shields.io/badge/linkedin-in/shahzad--baloch-0077B5)
-![WhatsApp](https://img.shields.io/badge/whatsapp-+923013876845-25D366?logo=whatsapp)
-![Fiverr](https://img.shields.io/badge/fiverr-shaiznoor-1DBF73?logo=fiverr)
-![GitHub](https://img.shields.io/badge/github-shaizCodes-181717?logo=github)
-![Roadmap](https://img.shields.io/badge/roadmap-u/shahzad-000000?logo=roadmapdotsh)
-![Coursera](https://img.shields.io/badge/coursera-learner/shahzad-0056D2?logo=coursera)
-![Google Developers](https://img.shields.io/badge/google%20developers-g.dev/shahzad--baloch-4285F4)
-![LeetCode](https://img.shields.io/badge/leetcode-shahzad--baloch-FFA116?logo=leetcode)
-![Medium](https://img.shields.io/badge/medium-@shaizcodes-000000?logo=medium)
+[![Gmail](https://img.shields.io/badge/gmail-shaizcodes-EA4335?logo=gmail)](mailto:shaizcodes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in/shahzad--baloch-0077B5)](https://linkedin.com/in/shahzad-baloch)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-+923013876845-25D366?logo=whatsapp)](https://wa.me/923013876845?text=Hi%20from%20a%20GitHub%20user!)
+[![Fiverr](https://img.shields.io/badge/fiverr-shaiznoor-1DBF73?logo=fiverr)](https://www.fiverr.com/shaiznoor)
+[![GitHub](https://img.shields.io/badge/github-shaizCodes-181717?logo=github)](https://github.com/shaizCodes)
+[![Roadmap](https://img.shields.io/badge/roadmap-u/shahzad-000000?logo=roadmapdotsh)](https://roadmap.sh/u/shahzad)
+[![Coursera](https://img.shields.io/badge/coursera-learner/shahzad-0056D2?logo=coursera)](https://www.coursera.org/learner/shahzad)
+[![Google Developers](https://img.shields.io/badge/google%20developers-g.dev/shahzad--baloch-4285F4)](https://g.dev/shahzad-baloch)
+[![LeetCode](https://img.shields.io/badge/leetcode-shahzad--baloch-FFA116?logo=leetcode)](https://leetcode.com/shahzad-baloch/)
+[![Medium](https://img.shields.io/badge/medium-@shaizcodes-000000?logo=medium)](https://medium.com/@shaizcodes)
 
 ## 🔧 Technologies & Tools
 
