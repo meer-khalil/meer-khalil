@@ -38,7 +38,7 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 
 ## Package Managers
 
-![Package Managers](https://skillicons.dev/icons?i=maven,gradle,npm,bun&theme=light)
+![Package Managers](https://skillicons.dev/icons?i=maven,gradle,npm&theme=light)
 
 ## Development Environment Tools
 
