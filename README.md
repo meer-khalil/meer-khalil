@@ -1,19 +1,19 @@
-# 👋Hey, I am Shahzad
+# 👋Hey, I am Meer Khalil
 
-I'm a **detail-oriented**, **process-driven** perfectionist with a humble and collaborative spirit. I enjoy solving complex problems, refining the small details, and working hard towards high-quality results.
+I'm a curious problem solver.
 
 ## 🧠 About Me
 
 - 🎯 Passionate about clean code, continuous learning, and meaningful impact
 - 👀 Enjoy building both client-side and backend logic, from interactive UIs to APIs
-- 🛠️ Tools of choice: `Java`, `Spring Boot`, `Angular`, `TypeScript`, `Python`
+- 🛠️ Tools of choice: `Javascript`, `Nodejs`, `React`, `TypeScript`, `Python`
 - 🤝 I value teamwork, clear communication, and craftsmanship in code
 
 ## Profiles
 
-[![Gmail](https://img.shields.io/badge/gmail-shaizcodes-EA4335?logo=gmail)](mailto:shaizcodes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-in/shahzad--baloch-0077B5)](https://linkedin.com/in/shahzad-baloch)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-+923013876845-25D366?logo=whatsapp)](https://wa.me/923013876845?text=Hi%20from%20a%20GitHub%20user!)
+[![Gmail](https://img.shields.io/badge/gmail-shaizcodes-EA4335?logo=gmail)](mailto:meerkhalil3212647@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in/shahzad--baloch-0077B5)](https://linkedin.com/in/meer-khalil)
+<!-- [![WhatsApp](https://img.shields.io/badge/whatsapp-+923013876845-25D366?logo=whatsapp)](https://wa.me/923013876845?text=Hi%20from%20a%20GitHub%20user!) 
 [![Fiverr](https://img.shields.io/badge/fiverr-shaiznoor-1DBF73?logo=fiverr)](https://www.fiverr.com/shaiznoor)
 [![GitHub](https://img.shields.io/badge/github-shaizCodes-181717?logo=github)](https://github.com/shaizCodes)
 [![Roadmap](https://img.shields.io/badge/roadmap-u/shahzad-000000?logo=roadmapdotsh)](https://roadmap.sh/u/shahzad)
@@ -21,6 +21,7 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 [![Google Developers](https://img.shields.io/badge/google%20developers-g.dev/shahzad--baloch-4285F4)](https://g.dev/shahzad-baloch)
 [![LeetCode](https://img.shields.io/badge/leetcode-shahzad--baloch-FFA116?logo=leetcode)](https://leetcode.com/shahzad-baloch/)
 [![Medium](https://img.shields.io/badge/medium-@shaizcodes-000000?logo=medium)](https://medium.com/@shaizcodes)
+-->
 
 ## 🔧 Technologies & Tools
 
@@ -47,7 +48,7 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 ### Others
 
 ![Other Tech Stack](https://skillicons.dev/icons?i=postman,figma,wordpress,git,github,docker,gcp,azure,aws,nginx,netlify,powershell,bash&perline=8&theme=light)
-
+<!--
 ---
 
 ## 📈 GitHub Stats
@@ -59,9 +60,9 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaizCodes&layout=pie&theme=transparent)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shaizCodes&theme=transparent&margin-w=15&margin-h=15)
-
+-->
 ---
-
+<!--
 ## 📈 Roadmap Stats
 
 ![Shahzad - roadmap.sh](https://roadmap.sh/card/tall/66cc88cd0d264bdbf81f35fe?variant=dark&roadmaps=java%2Cgit-github%2Cdatastructures-and-algorithms)
@@ -72,3 +73,4 @@ I'm a **detail-oriented**, **process-driven** perfectionist with a humble and co
 
 - 🧩 I enjoy solving challenges and learning new things.
 - 📚 I am always learning — from tech deep dives to productivity hacks.
+-->
