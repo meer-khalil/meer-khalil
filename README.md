@@ -11,8 +11,8 @@ I'm a curious problem solver.
 
 ## Profiles
 
-[![Gmail](https://img.shields.io/badge/gmail-shaizcodes-EA4335?logo=gmail)](mailto:meerkhalil3212647@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-in/shahzad--baloch-0077B5)](https://linkedin.com/in/meer-khalil)
+[![Gmail](https://img.shields.io/badge/gmail-meer--khalil-EA4335?logo=gmail)](mailto:meerkhalil3212647@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in/meer--khalil-0077B5)](https://linkedin.com/in/meer-khalil)
 <!-- [![WhatsApp](https://img.shields.io/badge/whatsapp-+923013876845-25D366?logo=whatsapp)](https://wa.me/923013876845?text=Hi%20from%20a%20GitHub%20user!) 
 [![Fiverr](https://img.shields.io/badge/fiverr-shaiznoor-1DBF73?logo=fiverr)](https://www.fiverr.com/shaiznoor)
 [![GitHub](https://img.shields.io/badge/github-shaizCodes-181717?logo=github)](https://github.com/shaizCodes)
